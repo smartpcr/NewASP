@@ -1,0 +1,27 @@
+{
+  "name": "psadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xd",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "browserify": "^13.0.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-open": "^2.0.0",
+    "jquery": "^2.2.3",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-router": "^2.4.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
