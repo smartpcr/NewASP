@@ -212,4 +212,5 @@ ModelManifest.xml
 # web development 
 bower_components/
 node_modules/
+.idea/
 
